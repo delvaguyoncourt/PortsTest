@@ -1,0 +1,33 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "private": true,
+  "description": "hello-word",
+  "author": "delvaguyoncourt",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "gatsby": "^4.22.0",
+    "gatsby-plugin-emotion": "^7.22.0",
+    "gatsby-plugin-google-analytics": "^4.22.0",
+    "gatsby-plugin-image": "^2.22.0",
+    "gatsby-plugin-manifest": "^4.22.0",
+    "gatsby-plugin-sharp": "^4.22.0",
+    "gatsby-plugin-sitemap": "^5.22.0",
+    "gatsby-source-filesystem": "^4.22.0",
+    "gatsby-source-wordpress": "^6.22.0",
+    "gatsby-transformer-sharp": "^4.22.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
